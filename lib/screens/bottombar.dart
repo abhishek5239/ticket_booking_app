@@ -30,7 +30,7 @@ class _bottombarState extends State<bottombar> {
         onTap: (index) => setState(() {
           current_index = index;
         }),
-        elevation: 11,
+        elevation: 10,
         showUnselectedLabels: false,
         showSelectedLabels: false,
         selectedItemColor: Colors.blueGrey,
