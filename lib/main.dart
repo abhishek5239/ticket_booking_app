@@ -10,8 +10,8 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      debugShowCheckedModeBanner: false,
-      title: 'flutter demo',
+      debugShowCheckedModeBanner: true,
+      title: 'flutter demonstartion',
       theme: ThemeData(
         primaryColor: primary,
       ),
