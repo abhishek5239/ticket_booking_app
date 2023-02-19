@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: true,
-      title: 'experimental',
+      title: 'experimental branch commit',
       theme: ThemeData(
         primaryColor: primary,
       ),
