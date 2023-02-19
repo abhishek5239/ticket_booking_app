@@ -11,9 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: true,
-
-      title: 'chanbges should reflect in github',
-
+      title: 'again change',
       theme: ThemeData(
         primaryColor: primary,
       ),
