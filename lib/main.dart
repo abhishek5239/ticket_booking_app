@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: true,
-      title: 'flutter demo',
+      title: 'master_branch_commit',
       theme: ThemeData(
         primaryColor: primary,
       ),
