@@ -1,5 +1,6 @@
 # ticket_booking_app
 
+![ticket](https://user-images.githubusercontent.com/90493707/220337643-eee46404-0fe9-45fa-8f11-802f1c09afc6.jpg)
 A new Flutter project.
 
 ## Getting Started
